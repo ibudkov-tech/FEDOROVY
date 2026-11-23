@@ -9,7 +9,7 @@ body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--f)}
 header.hd{padding:40px 0 24px;border-bottom:2px solid var(--ink)}
 .eyebrow{font:600 12px var(--s);letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
 h1{font:700 clamp(30px,6vw,50px)/1.1 var(--f);margin:10px 0 12px}
-.lede{max-width:70ch;margin:0 0 10px;font-size:17px}
+.lede{max-width:none;margin:0 0 10px;font-size:17px}
 .stats{display:flex;flex-wrap:wrap;gap:6px 26px;font:14px var(--s);color:var(--muted)}.stats b{color:var(--ink);font-size:20px;margin-right:5px;font-weight:600}
 section{padding:26px 0 6px}h2{font:700 26px/1.2 var(--f);margin:0 0 12px}
 h3.tt{font:700 19px var(--f);margin:20px 0 8px}p.tn{margin:0 0 10px;color:var(--muted);font-size:15px;max-width:72ch}
